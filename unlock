@@ -4,3 +4,4 @@ pkg install curl -y
 pkg install python -y
 pkg install strings -y
 pkg install file -y
+pkg install grep -y
